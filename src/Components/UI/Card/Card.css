@@ -1,0 +1,21 @@
+.cardContainer {
+  margin: auto;
+  width: 350px;
+  height: 200px;
+  border: 10px double rgb(236, 207, 37);
+  border-radius: 25px;
+  padding: 25px;
+  caret-color: transparent;
+  margin-top: 50px;
+  background-color: blanchedalmond;
+}
+
+.cardHeader {
+  color: rgb(0, 0, 0);
+  margin: auto;
+  width: 50%;
+  height: auto;
+  border-radius: 7px;
+  padding: 10px;
+  text-align: center;
+}
